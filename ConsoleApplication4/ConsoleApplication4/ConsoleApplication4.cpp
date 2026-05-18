@@ -190,6 +190,7 @@ int main()
     cout <<"Урон :" << PlayerAttackerNigger << endl;
     cout <<"ХП : " << enemy.hp << endl;
     return 0;
+    //ЗДфыв
     
     
     
